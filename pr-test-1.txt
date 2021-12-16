@@ -1,1 +1,8 @@
 One cannot go against nature.
+
+if (human)
+{
+  return;
+}
+else
+  Console.WriteLine("No Bots Allowed");
